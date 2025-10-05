@@ -11,7 +11,7 @@
 
 ## 📖 About
 
-FerrumC is a **1.21.8** Minecraft server implementation written from the ground up in Rust. Leveraging the power of the
+FerrumC is a **1.21.9** Minecraft server implementation written from the ground up in Rust. Leveraging the power of the
 Rust programming language, it is completely multithreaded and offers high performance as well as amazing memory
 efficiency!
 
@@ -52,7 +52,7 @@ to discuss the project!
       <img src="https://github.com/ferrumc-rs/ferrumc/blob/master/assets/README/chunk_importing.gif?raw=true" alt="Configuration">
     </li>
     <li>
-      <h4>🌐 Compatible with vanilla Minecraft clients (Version 1.21.8)</h4>
+      <h4>🌐 Compatible with vanilla Minecraft clients (Version 1.21.9)</h4>
     </li>
     <li>
       <h4>📦 Fully multithreaded; Utilizes all available CPU cores, instead of a single "main" thread</h4>
